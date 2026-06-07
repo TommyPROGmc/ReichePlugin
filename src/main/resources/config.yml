@@ -1,0 +1,10 @@
+leben-pro-spieler: 3
+max-spieler-pro-reich: 5
+zerfall-effekt: SLOWNESS
+banane-respawn-sekunden: 10
+banane-despawn-sekunden: 10
+nachricht-zerfall: "&c☠ Euer Reich ist zerfallen! Bringt die Banane zurück!"
+nachricht-aktiv: "&a✓ Euer Reich ist wieder aktiv!"
+nachricht-banane-geklaut: "&4{reich} wurde geplündert!"
+nachricht-banane-zurueck: "&2{reich} wurde gerettet!"
+scoreboard-titel: "&6&lReiche"
