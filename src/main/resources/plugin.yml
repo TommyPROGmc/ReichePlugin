@@ -1,0 +1,19 @@
+name: Reiche
+version: 1.1
+main: de.kammer.reiche.Reiche
+api-version: 1.21
+author: PluginKammer
+description: Teams beschützen ihre Banane
+prefix: Reiche
+
+commands:
+  reich:
+    description: Reich Befehle
+    usage: /reich <erstellen|join|leave|start|info>
+    permission: reiche.use
+
+permissions:
+  reiche.use:
+    default: true
+  reiche.admin:
+    default: op
